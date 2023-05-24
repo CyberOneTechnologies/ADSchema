@@ -1,0 +1,24 @@
+Primary Folder,Sub Level 1,Sub Level 2,Sub Level 3,Sub Level 4,Sub Level 5,Security Group
+C_Corporate,,,,,,All
+,C01_HR,,,,
+,C011_HR_Public,,,All
+,,,C0111_Onboarding,,,
+,,,,C01111_Employment_Forms_Agreements,
+,,,C0112_Corporate_Training,,
+,,,,C01121_Videos,
+,,,,C01122_Documents,
+,,,,C01123_SharePoint_Document_Management,
+,,,C0113_Employment_Policies,,
+,,,,C01131_Employee_Handbook,
+,,,,C01132_Employee_Playbook,
+,,,,C01133_Development_ Training,
+,,,C0114_Internal Company Meetings,,
+,,,C0115_Employee_Information,,
+,C012_HR Supervisory Group,,
+,,,C0121_Supervisory Documents & Forms,Supervisors
+,,,,C01211 Hiring and Onboarding,
+,,,,C01212_Termination,
+,,,,C01213_Performance,
+,C013_HR Department Internal,,,HR
+,C02_Finance,,,
+,C021_Certificates of Insurance,,,All
