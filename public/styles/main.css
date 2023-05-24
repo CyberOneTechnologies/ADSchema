@@ -1,0 +1,48 @@
+/* Reset some default browser styles */
+body, h1, form, div {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+main {
+    margin: 20px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+label, input[type="text"], input[type="submit"] {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input[type="text"] {
+    padding: 5px;
+    width: 100%;
+    max-width: 500px;
+}
+
+input[type="submit"] {
+    background-color: #007BFF;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #0056b3;
+}
