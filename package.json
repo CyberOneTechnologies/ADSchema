@@ -1,0 +1,19 @@
+{
+  "name": "ADSchema",
+  "version": "1.0.0",
+  "description": "A tool to develop an Active Directory Security Group Naming Schema",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CyberOneTechnologies/ADSchema.git"
+  },
+  "author": "Aarsyth",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "csv-parser": "^3.0.0"
+  }
+}
